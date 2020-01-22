@@ -1,0 +1,1 @@
+63Locus1 Locus2 Locus3ID1 1 4 A D f hID2 2 9 F J s xID3 0 8 B I ? ?ID4 7 7 T T o zID5 1 5 C F a aID6 5 7 G H c d
