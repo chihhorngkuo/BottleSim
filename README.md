@@ -1,7 +1,7 @@
 # BottleSim
 
 ## Citation
-Kuo CH*, Janzen FJ (2003) BottleSim: a bottleneck simulation program for long-lived species with overlapping generations. Molecular Ecology Notes 3: 669-673. DOI: 10.1046/j.1471-8286.2003.00532.x 
+Kuo CH, Janzen FJ (2003) BottleSim: a bottleneck simulation program for long-lived species with overlapping generations. Molecular Ecology Notes 3: 669-673. DOI: 10.1046/j.1471-8286.2003.00532.x 
 
 ## Synopsis
 BottleSim is a simulation program for changes in genetic diversity during the process of population bottlenecks. The major novelties of the program include:
